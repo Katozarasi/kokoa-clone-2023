@@ -8,7 +8,7 @@
 }
 .welcome-header__title {
   margin-bottom: 20px;
-  font-size: 25px;
+  font-size: 30px;
 }
 .welcome-header__text {
   width: 60%;
@@ -50,5 +50,5 @@
   text-align: center;
   text-decoration: none;
   color: inherit;
-  font-size: 13px;
+  font-size: 14px;
 }
