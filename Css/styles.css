@@ -6,13 +6,21 @@
 @import "components/nav-bar.css";
 @import "components/screen-header.css";
 @import "components/user-component.css";
+@import "components/badge.css";
+@import "components/point.css";
 
 /* screens */
 @import "screens/login.css";
 @import "screens/Friends.css";
+@import "screens/find.css";
 
 body {
   color: #2e363e;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   height: 1000vh;
+}
+
+.main-screen {
+  padding-top: 130px;
+  padding-left: 30px;
 }
