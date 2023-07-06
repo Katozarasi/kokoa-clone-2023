@@ -26,8 +26,3 @@
 .status-bar__column .fa-battery-full {
   margin: 0px 5px;
 }
-.status-bar__column .fa-battery-full {
-  inset: 23;
-  display: flex;
-  box-sizing: content-box;
-}
