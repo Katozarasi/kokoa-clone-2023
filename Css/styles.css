@@ -8,11 +8,15 @@
 @import "components/user-component.css";
 @import "components/badge.css";
 @import "components/point.css";
-
+@import "components/user-component-more.css";
+@import "components/icon-row.css";
+@import "components/alt-screen-header.css";
 /* screens */
 @import "screens/login.css";
 @import "screens/Friends.css";
 @import "screens/find.css";
+@import "screens/more.css";
+@import "screens/settings.css";
 
 body {
   color: #2e363e;
@@ -22,5 +26,10 @@ body {
 
 .main-screen {
   padding-top: 130px;
+  padding-left: 30px;
+}
+
+.main-screen1 {
+  padding-top: 15px;
   padding-left: 30px;
 }

@@ -1,0 +1,40 @@
+.user-component1 {
+  justify-content: space-between;
+}
+
+.user-component1,
+.user-component__column1:first-child {
+  display: inline-flex;
+  align-items: center;
+  position: sticky;
+}
+.user-component__avatar1 {
+  width: 70px;
+  height: 70px;
+  object-fit: cover;
+  border-radius: 30px;
+  margin-right: 20px;
+}
+.user-component__title1 {
+  font-weight: 600;
+  font-size: 22px;
+}
+.user-component__Subtitle1 {
+  margin-top: 8px;
+  font-size: 18px;
+  color: rgba(0, 0, 0, 0.3);
+}
+
+.user-component__avatar--xl1 {
+  width: 90px;
+  height: 90px;
+}
+.user-component-papa1 {
+  margin-top: -80px;
+  margin-left: 15px;
+}
+
+.user-component__column2 {
+  display: flex;
+  justify-content: space-between;
+}
