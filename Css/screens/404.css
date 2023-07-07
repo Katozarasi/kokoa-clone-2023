@@ -84,7 +84,7 @@ body {
 
 .heading {
   text-align: center;
-  font-size: 9em;
+  font-size: 10em;
   line-height: 1.3em;
   margin: 2rem 0 0.5rem 0;
   padding: 0;
@@ -101,10 +101,12 @@ body {
 .subheading {
   text-align: center;
   max-width: 480px;
-  font-size: 1.5em;
+  font-size: 2em;
   line-height: 1.15em;
   padding: 0 1rem;
   margin: 0 auto;
+  text-shadow: 0 0 1rem #ced2d6;
+  color: #cbcbcb;
 }
 @media (max-width: 770px) {
   .subheading {
