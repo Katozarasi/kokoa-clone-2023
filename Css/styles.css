@@ -11,6 +11,7 @@
 @import "components/user-component-more.css";
 @import "components/icon-row.css";
 @import "components/alt-screen-header.css";
+@import "components/chat.css";
 /* screens */
 @import "screens/login.css";
 @import "screens/Friends.css";
@@ -22,7 +23,7 @@
 body {
   color: #2e363e;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-  height: 1000vh;
+  height: 200vh;
 }
 
 .main-screen {

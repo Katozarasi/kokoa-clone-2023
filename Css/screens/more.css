@@ -2,28 +2,28 @@
   margin-top: 35px;
 }
 
-.more-suggetions {
+.more-suggestions {
   margin-top: 50px;
   border-top: var(--main-border);
   padding-top: 40px;
 }
 
 .more-suggestions__title {
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 
-.more-suggetions__icons {
+.more-suggestions__icons {
   display: flex;
 }
 
-.more-suggetions__icon {
+.more-suggestions__icon {
   margin-right: 30px;
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
-.more-suggetions__icon-image {
+.more-suggestions__icon-image {
   width: 60px;
   height: 60px;
   background-color: var(--yellow);
@@ -34,7 +34,7 @@
   margin-bottom: 10px;
 }
 
-.more-suggetions__icon-image i {
+.more-suggestions__icon-image i {
   font-size: 32px;
   color: white;
 }
